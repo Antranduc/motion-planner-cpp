@@ -1,3 +1,5 @@
 CLAUDE.local.md
 .project-docs/
+.cache
 build/
+compile_commands.json
